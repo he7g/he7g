@@ -1,4 +1,4 @@
-🍾 I am a seasoned Java technology expert with extensive experience in foundational components and engineering development. Over the years, I have designed and developed robust systems, including **RPC framework** and **[Saturn](https://github.com/vipshop/Saturn)**, etc. Also, I have gained valuable experience in data engineering and recommendation systems.
+🍾 I am a seasoned Java technology expert with extensive experience in foundational components and engineering development. Over the years, I have designed and developed robust systems, including RPC framework and [Saturn](https://github.com/vipshop/Saturn), etc. Also, I have gained valuable experience in data engineering and recommendation systems.
 
 😄 **Contributions:**
 
